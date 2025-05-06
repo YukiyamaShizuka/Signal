@@ -32,3 +32,25 @@ To explore the execution model:
 ```bash
 cd src
 cat src/loop_pipeline.s
+
+---
+
+## Sponsor This Project
+
+Signal is being developed independently, without institutional support.  
+If you believe in open, deterministic, and low-level system design — your support will help the author continue research and development.
+
+### Goal
+
+Help fund a **MacBook Air M4 (24GB RAM / 512GB SSD)** as a dedicated development machine for Signal and TreeOS projects.
+
+### Donate via WeChat:
+
+<p align="center">
+  <img src="./sponsor.jpg" alt="Sponsor via WeChat" width="300"/>
+</p>
+
+For PayPal or other international sponsorship methods, please contact:  
+**shizuka@treeos.art**
+
+Thank you for supporting real-time systems, open instruction design, and independent research.
