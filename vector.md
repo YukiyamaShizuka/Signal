@@ -6,7 +6,9 @@ This document defines the `vector` construct in the Signal programming language.
 
 ## Syntax
 vector   = <value_expression> to <scalarA; scalarB; …>;
-
+vector int32 init = 5 to <a; b;>;
+scalar int32 a = init usedby <sum();>;
+scalar int32 b = init usedby <sum();>;
 ### Components:
 
 - `vector`: Declaration keyword.
